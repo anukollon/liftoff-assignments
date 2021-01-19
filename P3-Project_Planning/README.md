@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 - As a prospective user/donor, I can register on the Blood Bank Management Website using my credentials.
-
+![User_registration](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/UserRegistrationForm.jpg?raw=true)
 - Login to the Blood Bank website using the Login Page.
 
 - Edit my profile after logging in.
