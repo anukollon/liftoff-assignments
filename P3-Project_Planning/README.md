@@ -8,35 +8,33 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- As a prospective user/donor, I can register on the Blood Bank Management Website using my credentials.
+- As a prospective blood bank staff, I can register on the Blood Bank Management Website.
 
-![User_registration](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/UserRegistrationForm.jpg?raw=true)
+![User_registration](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/RegistrationForm-BloodBankStaff?raw=true)
 
 - Login to the Blood Bank website using the Login Page.
 
 ![Login_Page](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/LoginPage.jpg?raw=true)
 
-- Edit my profile after logging in.
+- Home page of the blood bank staff consists of links for Add Donor, Delete Donor, Search Donor and manage blood Stock.
 
-![Edit_Profile](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/EditProfile.jpg?raw=true)
+![Home Page for blood bank staff](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.jpg?raw=true)
 
-- Home page of the user/donor consist of links for Edit Prodile, Request for Blood, Donate Blood and see the blood stock.
+- Add a new Donor.
 
-![Home Page for Users](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/HomePageForUsers.jpg?raw=true)
+![Add Donor](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/AddDonor.jpg?raw=true)
 
-- Home page of the blood bank staff consists of links for Search Blood Donor, Requests for blood donation, Requests for blood from users and list of blood donors.
+- Delete a Donor.
 
-![Blood Bank Staff Home Page](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/BloodBankStaffHomePage.jpg?raw=true)
+![Delete Donor](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/DeleteDonor.jpg?raw=true)
 
-- Search Blood donor page has an option to search for donors with a specific type of blood group and blood type.
+- Search for a Donor: We can search for a donor based on the location or blood group. 
 
-![Search Blood Donor](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/SearchBloodDonor.jpg?raw=true)
+![Search Donor](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/SearchDonor.jpg?raw=true)
 
-- List Blood donor page has an option to list all donors or the ones with a specific blood group and type.
+- Manage Stock: Blood bank staff can manage the blood stock. There is an option to increase or decrease the blood stock.
 
-![List Donors](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/ListDonors.jpg?raw=true)
-
-
+![Manage Stock](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/ManageStock.jpg?raw=true)
 
 ### Project Tracker
 
