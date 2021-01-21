@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 - As a prospective blood bank staff, I can register on the Blood Bank Management Website.
 
-![User_registration](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/RegistrationForm-BloodBankStaff?raw=true)
+![User_registration](https://github.com/anukollon/liftoff-assignments/blob/master/P3-Project_Planning/RegistrationForm-BloodBankStaff.jpg?raw=true)
 
 - Login to the Blood Bank website using the Login Page.
 
