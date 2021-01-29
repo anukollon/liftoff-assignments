@@ -13,6 +13,6 @@ https://github.com/anukollon
 https://www.linkedin.com/in/anu-kollon-865a1311/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://github.com/anukollon/liftoff-assignments/blob/master/C1-Online_Profiles/Anu%20Kollon_Resume_Jan%202021.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
